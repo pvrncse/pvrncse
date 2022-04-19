@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pvrncse
-- 👀 I’m interested in developing web applications.
-- 🌱 I’m currently learning nodejs, vue.js.
+- 👀 I’m fullstack developer.
+- 🌱 I’m on typescript, node, express, graphql, prisma, react and @apollo/client.
 - 💞️ I’m looking to collaborate on javascript, angular, react, node, vue and other javascript libraries/frameworks.
-- 📫 How to reach me at pvrncse@gmail.com
+- 📫 Reach me at pvrncse@gmail.com
 
 <!---
 pvrncse/pvrncse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
