@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pvrncse
-- 👀 I’m fullstack developer.
+- 👀 I’m a fullstack developer.
 - 🌱 I’m on typescript, node, express, graphql, prisma, react and @apollo/client.
 - 💞️ I’m looking to collaborate on javascript, angular, react, node, vue and other javascript libraries/frameworks.
 - 📫 Reach me at pvrncse@gmail.com
